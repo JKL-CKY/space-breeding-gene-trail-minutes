@@ -1,0 +1,2 @@
+# space-breeding-gene-trail-minutes
+太空育种实验记录会议基因轨迹纪要全栈系统——前端展示种子返回后表型对比图，后端处理科学家讨论录音，librosa过滤实验室通风噪声，Whisper识别基因位点与性状术语，pyannote区分分子生物学家与园艺师，OpenAI生成诱变效应分析与后代筛选策略摘要
